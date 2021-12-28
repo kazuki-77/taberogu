@@ -1,24 +1,5 @@
-# README
+# アプリケーションを完成させよう２
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 復習です
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### 理解を深めるために復習を何度も頑張ります。
